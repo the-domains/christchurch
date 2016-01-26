@@ -1,7 +1,7 @@
 name: Christchurch
 favicon: null
-layout_spectrum: 0.712302029831335
-typography_spectrum: 0.9842470190487802
+layout_spectrum: 0.94267
+typography_spectrum: 0.34836
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.17356784734874964
-  lightness: 0.61693652626127
-  saturation: 0.17557161045260727
-  rhythmicContrast: 0.3192678156774491
+  brandStrength: 0.625
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
